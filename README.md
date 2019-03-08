@@ -26,7 +26,7 @@
 
 # 关于Electron 在 运行时候的 提示
 
-==Failed to fetch extension, trying 4 more times==
+**Failed to fetch extension, trying 4 more times**
 
 倒数到1 也可以 运行成功. 只是没有 vue 插件了. 并且每次运行都会 倒数. 效率很慢.
 
@@ -34,9 +34,9 @@
 
 需要连接谷歌. 
 
-国内的小伙伴 可以  在==项目中找到  Vue.jsDevtools 文件夹. 将 里面的那个  extensions  文件夹== 
+国内的小伙伴 可以  在**项目中找到  Vue.jsDevtools 文件夹. 将 里面的那个  extensions  文件夹** 
 
-复制到 ==C:\ Users \ xxxue \ AppData \ Roaming \ vue-project \ extensions==  
+复制到 **C:\ Users \ xxxue \ AppData \ Roaming \ vue-project \ extensions**
 
 xxxue 是电脑用户名
 
