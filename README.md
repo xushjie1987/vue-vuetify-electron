@@ -1,4 +1,26 @@
-# vue-project
+# vue-vuetify-electron-project
+
+**包含的 内容**
+
+**vue**
+
+**vuex**
+
+**vuetify**
+
+**electron**
+
+------
+
+**里面有一个 模板页**
+
+**左侧抽屉,**
+
+**tabs 之类的.**
+
+------
+
+
 
 ## Project setup
 ```
