@@ -1,10 +1,6 @@
 <!--  -->
 <template>
-  <v-app>
-    <div>
-      <v-text-field label="aaa" clearable></v-text-field>
-    </div>
-  </v-app>
+  <div>这里是首页</div>
 </template>
 
 <script>

@@ -2,7 +2,7 @@
 <template>
   <v-app>
     <div>
-      <v-text-field label="aaa" clearable></v-text-field>
+      <v-text-field label="Regular" clearable></v-text-field>
     </div>
   </v-app>
 </template>
